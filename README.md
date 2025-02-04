@@ -13,4 +13,4 @@ The user will then be given the option to measure another cell.
 
 **Important: If you want to compare results between cells in an image, do not restart the macro; if you do, a different background value will be calculated that might differ slightly.  If you instead select yes and measure more cells, the same background value will be used, making your results comparable.**
 
-**Recommended: It is recommended to report fold change values as log fold change, so that plotted distance for equivalent negative and positive differences have the same magnitude.**
+**Recommended: It is recommended to report fold change values as log fold change, so that the plotted distance for equivalent negative and positive changes in intensity have the same magnitude.**
