@@ -1,4 +1,4 @@
-# Membrane-vs-Cytoplasm-Intensity-Over-Time-Measurement
+# Cytoplasm Intensity Over Time Measurement
 Divya Tiraki
 
 This macro was written in November 2024 to help Divya Tiraki measure the intensity of the cytoplasm signal (excluding the membrane) over time.
